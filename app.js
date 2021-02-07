@@ -64,8 +64,7 @@ const displayInfo = de => {
    <li>${de.strIngredient4}</li>
    <li>${de.strIngredient5}</li>
    <li>${de.strIngredient6}</li>
-   <li>${de.strIngredient7}</li>
-   <li>${de.strIngredient8}</li>
+   
     </div>
     
     
