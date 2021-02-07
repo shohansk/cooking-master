@@ -1,0 +1,37 @@
+body{
+  background-color: rgba(241, 185, 100, 0.829);
+}
+
+#search {
+    
+   display: flex;
+   margin-left: 100px;
+   margin-bottom: 20px;
+    
+}
+#meals{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 20px;
+    border-radius: 10px;
+}
+#imgs{
+    width: 300px;
+    height: 200px;
+}
+#ingredient{
+    background-color: cornsilk;
+    width: 320px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+}
+#div{
+    background-color: cornsilk;
+    width: 320px;
+    height: 350px;
+    
+    border-radius: 10px;
+    
+}
